@@ -11069,7 +11069,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/S4-uki2qgWCLq6Nf3nGIj1TomVkC-aTxm9wIYl49O09LmFcq6NXNVM86s0XOCOcxGDC97wG2iLP5IgYJsXFB_9e8DQRe4an-P_eH8n0MPYFzk_p0U7-CYV0TPnTUBNLX-Aw1280.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11113,7 +11113,11 @@ body {
 
 .about-section {
   padding-top: 10rem;
-  background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/1lpBjKzl1SX9HQsmxe7qUt66ZujV6bghfEK8L3xTZLER0E_4Z_9qtdHMeNRTaVI0vQw3d33b_l1VbTSbB9MWYA1VglvwlLhWdyq1OuhAM2gMR25YreucWuea8P6D8jYDzAw1280.png");
+  background-attachment: scroll;
+  background-position: inherit;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .about-section p {
   margin-bottom: 5rem;
